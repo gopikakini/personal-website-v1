@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #067ded;
+  color: #080808;
   text-decoration: none;
 }
 
@@ -589,7 +589,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #0563bb;
+  color: #070707;
 }
 
 .portfolio #portfolio-flters li:last-child {
